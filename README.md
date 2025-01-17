@@ -4,14 +4,6 @@ This repository contains the implementation of various astrophysical simulations
 
 ---
 
-## Authors
-- Aurora Abbondanza
-- Alessandro Agapito
-- Andrea Belli Contarini
-- Riccardo Caleno
-
----
-
 ## Files and Their Purpose
 
 ### 1. `2body.c`
@@ -77,3 +69,10 @@ This repository contains the implementation of various astrophysical simulations
 1. Compile the desired file using:
    ```bash
    gcc -o <output> <file.c> -lm
+---
+
+## Authors
+- Aurora Abbondanza
+- Alessandro Agapito
+- Andrea Belli Contarini
+- Riccardo Caleno
